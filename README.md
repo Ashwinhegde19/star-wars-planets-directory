@@ -17,10 +17,10 @@ This application is a simple directory of planets from the Star Wars universe. I
 ## Installation
 
 To run this application locally, follow these steps:
-
+``` bash
 1. Clone the repository to your local machine:
 
-git clone (https://github.com/Ashwinhegde19/star-wars-planets-directory)
+git clone https://github.com/Ashwinhegde19/star-wars-planets-directory
 
 
 2. Navigate to the project directory:
@@ -37,7 +37,7 @@ npm install
 npm start
 
 5. Open your browser and navigate to `http://localhost:3000` to view the application.
-
+```
 ## Usage
 
 - Upon loading the application, you will see a list of planets from the Star Wars universe.
