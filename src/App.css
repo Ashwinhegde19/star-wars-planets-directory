@@ -1,0 +1,66 @@
+/* App.css */
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #14161a;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Ensure full height */
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.planet-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.planet-card {
+  width: 300px;
+  background-color: #1e2125;
+  color: #fff;
+  border-radius: 20px;
+  margin: 20px;
+  padding: 20px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease;
+}
+
+.planet-card:hover {
+  transform: translateY(-5px);
+}
+
+.planet-card h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: #ffc107;
+}
+
+.planet-card p {
+  margin: 5px 0;
+}
+
+.load-more-button {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.load-more-button button {
+  background-color: #ffc107;
+  color: #14161a;
+  border: none;
+  border-radius: 25px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.load-more-button button:hover {
+  background-color: #ffca28;
+}
