@@ -20,7 +20,7 @@ To run this application locally, follow these steps:
 
 1. Clone the repository to your local machine:
 
-git clone [<repository-url>](https://github.com/Ashwinhegde19/star-wars-planets-directory)
+git clone (https://github.com/Ashwinhegde19/star-wars-planets-directory)
 
 
 2. Navigate to the project directory:
