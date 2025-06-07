@@ -48,6 +48,7 @@ npm start
 
 This project was created as a sample project by [Ashwin K M].
 
-## License
+## Licence 
+https://chatgpt.com/share/6844c23c-ada0-8007-8b8b-9a966d3e3f75
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
